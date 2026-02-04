@@ -1,4 +1,8 @@
 ## Hi there 👋
+Senior Full-Stack Developer | Vue.js · Node.js · Express.js · AWS
+Senior Full-Stack Developer with 6+ years of experience building and scaling production-grade SaaS platforms and customer-facing web applications.
+I specialize in software architecture, API design, and responsive frontend systems, with a strong focus on Vue.js, Node.js / Express, and AWS. I enjoy working on complex systems where performance, reliability, and clear architecture matter.
+Beyond coding, I’m comfortable leading technical decisions, collaborating with product and design teams, and explaining complex technical concepts to non-technical stakeholders in a clear, practical way.
 
 <!--
 **jsongy0818-sudo/jsongy0818-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

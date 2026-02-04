@@ -1,19 +1,19 @@
-## Hi there 👋
-Senior Full-Stack Developer with 6+ years of experience building and scaling production-grade SaaS platforms and customer-facing web applications.
-I specialize in software architecture, API design, and responsive frontend systems, with a strong focus on Vue.js, Node.js / Express, and AWS. I enjoy working on complex systems where performance, reliability, and clear architecture matter.
-Beyond coding, I’m comfortable leading technical decisions, collaborating with product and design teams, and explaining complex technical concepts to non-technical stakeholders in a clear, practical way.
+## Senior Full-Stack Developer 👋
+| Section               | Details                                                                                                                                                                                                                                            |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Profile               | Senior Full-Stack Developer with **6+ years of experience** building **scalable SaaS platforms** and high-traffic web applications. Strong focus on **software architecture, API design, and performance** using Vue.js, Node.js/Express, and AWS. |
+| Current Focus         | Designing modular full-stack architectures, optimizing backend performance, and delivering production-ready systems with high reliability and clear documentation.                                                                                 |
+| Core Responsibilities | Software architecture • API design & development • Frontend component systems • Performance optimization • Cloud deployment • Technical leadership & mentoring                                                                                     |
+| Frontend Stack        | Vue.js • JavaScript • HTML5 • CSS3 • Responsive Design                                                                                                                                                                                             |
+| Backend Stack         | Node.js • Express.js • RESTful APIs                                                                                                                                                                                                                |
+| Databases             | PostgreSQL • MySQL • MongoDB                                                                                                                                                                                                                       |
+| Cloud & DevOps        | AWS (EC2, S3) • Docker • CI/CD pipelines                                                                                                                                                                                                           |
+| Architecture          | Modular systems • Scalability • Separation of concerns • Maintainability                                                                                                                                                                           |
+| Workflow              | Agile/Scrum • Git • Linux                                                                                                                                                                                                                          |
+| Experience Highlights | Led full-stack development of a **multi-module SaaS platform (10k+ MAU)** • Improved API performance by **30–40%** • Maintained **99.9%+ uptime** on AWS • Reduced defects and onboarding time through documentation and mentorship                |
+| Leadership            | Acted as Technical Lead, collaborating with product and design teams, mentoring developers, and clearly explaining technical decisions to non-technical stakeholders                                                                               |
+| GitHub Content        | Production-grade APIs • Scalable frontend architecture • Performance optimizations • Clean, well-documented code                                                                                                                                   |
+| Values                | Clarity over cleverness • Architecture over hacks • Code that scales with the team                                                                                                                                                                 |
+| Contact               | **LinkedIn:** [https://linkedin.com/in/vladyslav-radzi](https://linkedin.com/in/vladyslav-radzi)  • **Email:** [jsongy0818@gmail.com](mailto:jsongy0818@gmail.com)                                                                                 |
 
-<!--
-**jsongy0818-sudo/jsongy0818-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

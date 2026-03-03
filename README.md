@@ -14,6 +14,6 @@
 | Leadership            | Acted as Technical Lead, collaborating with product and design teams, mentoring developers, and clearly explaining technical decisions to non-technical stakeholders                                                                               |
 | GitHub Content        | Production-grade APIs • Scalable frontend architecture • Performance optimizations • Clean, well-documented code                                                                                                                                   |
 | Values                | Clarity over cleverness • Architecture over hacks • Code that scales with the team                                                                                                                                                                 |
-| Contact               | **LinkedIn:** [https://linkedin.com/in/severino-osena(https://linkedin.com/in/vladyslav-radzi)  • **Email:** [severinoosena0608@gmail.com](mailto:jsongy0818@gmail.com)                                                                                 |
+| Contact               | **LinkedIn:** [https://linkedin.com/in/severino-osena]  • **Email:** [severinoosena0608@gmail.com]                                                                                |
 
 

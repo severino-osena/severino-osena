@@ -14,6 +14,6 @@
 | Leadership            | Technical Lead experience guiding architecture decisions • mentoring developers • enforcing coding standards • improving engineering consistency • aligning technical solutions with business objectives                                                                              |
 | GitHub Content        | Production-grade projects demonstrating scalable API architecture • SaaS billing systems • authentication flows • full-stack implementations using modern JavaScript/TypeScript ecosystems                                                                                                                       |
 | Values                | Clean code • long-term maintainability • performance-first mindset • security best practices • ownership • continuous learning • and business-oriented development                                                                                                                                                       |
-| Contact               | **LinkedIn:** [https://linkedin.com/in/severino-osena]  • **Email:** [severinoosena0608@gmail.com]                                                                                |
+| Contact               | **LinkedIn:** [https://www.linkedin.com/in/severino-osena-7b49013b7]  • **Email:** [severinoosena0608@gmail.com]                                                                                |
 
 
